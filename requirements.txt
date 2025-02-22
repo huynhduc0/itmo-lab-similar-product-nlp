@@ -1,0 +1,13 @@
+pandas
+numpy
+faiss-cpu
+torch
+sentence-transformers
+scikit-learn
+umap-learn
+matplotlib
+seaborn
+plotly
+wordcloud
+fastapi
+uvicorn
