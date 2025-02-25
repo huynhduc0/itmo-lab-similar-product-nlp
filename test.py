@@ -4,7 +4,6 @@ import torch
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-# Load model và FAISS index
 model = SentenceTransformer("all-MiniLM-L6-v2")
 index_path = "faiss_index.bin"
 df_path = "processed_products.json"
