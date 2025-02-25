@@ -1,0 +1,16 @@
+.loading-spinner {
+    display: none;
+    width: 3rem;
+    height: 3rem;
+    margin: 10px auto;
+}
+
+.product-card img {
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.modal-content img {
+    max-width: 100%;
+}
