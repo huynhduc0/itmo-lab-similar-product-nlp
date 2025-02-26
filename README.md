@@ -130,7 +130,7 @@ Nike Air Max 270 Nike Black Shoes Lightweight and comfortable sneakers
 -
 Для более подробной информации о точности, см. **график результатов** и **демо видео** ниже:  
 
-[![Demo Video](https://img.youtube.com/vi/CafWRVBLFGs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CafWRVBLFGs)  
+[![Demo Video](https://img.youtube.com/vi/FcPHC8cHxyk/maxresdefault.jpg)](https://www.youtube.com/watch?v=FcPHC8cHxyk)  
 
 *(Нажмите на изображение, чтобы посмотреть демо видео на YouTube)*  
 
@@ -270,7 +270,7 @@ Meanwhile, **BM25 shows poor accuracy** by returning irrelevant products, as it 
 - 
 For more details on accuracy, refer to the **results chart** and **demo video** below:  
 
-[![Demo Video](https://img.youtube.com/vi/CafWRVBLFGs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CafWRVBLFGs)  
+[![Demo Video](https://img.youtube.com/vi/FcPHC8cHxyk/maxresdefault.jpg)](https://www.youtube.com/watch?v=FcPHC8cHxyk)  
 
 *(Click on the image to watch the demo video on YouTube)*  
 
