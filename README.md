@@ -262,9 +262,12 @@ Where **\( rank_i \)** is the position of the first correct product in the searc
 When testing with the basic search model, it can be seen that **accuracy with Hybrid Search improves significantly**:  
 
 For example, when searching for `"Samsung Smartphone"`, **Hybrid Search returns exactly the Samsung products** (see image).  
+![Hybrid Search](img/hybrid_search_result.png)
 
 Meanwhile, **BM25 shows poor accuracy** by returning irrelevant products, as it only searches based on keywords without understanding semantics.  
-
+![BM25](img/BM25_why.png)
+- 
+- 
 For more details on accuracy, refer to the **results chart** and **demo video** below:  
 
 [![Demo Video](https://img.youtube.com/vi/CafWRVBLFGs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CafWRVBLFGs)  
